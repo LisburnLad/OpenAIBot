@@ -4,4 +4,7 @@ OpenAIBot/__init__.py
 OpenAIBot.egg-info/PKG-INFO
 OpenAIBot.egg-info/SOURCES.txt
 OpenAIBot.egg-info/dependency_links.txt
+OpenAIBot.egg-info/requires.txt
 OpenAIBot.egg-info/top_level.txt
+OpenAIBot/envs/__init__.py
+OpenAIBot/envs/openai_bot_env.py
