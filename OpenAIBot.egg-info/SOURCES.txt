@@ -1,0 +1,7 @@
+README.md
+setup.py
+OpenAIBot/__init__.py
+OpenAIBot.egg-info/PKG-INFO
+OpenAIBot.egg-info/SOURCES.txt
+OpenAIBot.egg-info/dependency_links.txt
+OpenAIBot.egg-info/top_level.txt
